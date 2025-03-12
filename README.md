@@ -1,4 +1,4 @@
-# codex25-012-resto-menu
+# codex25-012-restaurant-menu
 
 <p><strong>PROJECT OVERVIEW</strong></p>
 This project is a restaurant menu built using HTML and CSS. It features a visually appealing and well-structured design to display food and drink options in an organized manner. The layout ensures readability, accessibility, and responsiveness across different screen sizes.
