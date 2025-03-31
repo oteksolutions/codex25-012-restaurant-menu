@@ -144,6 +144,7 @@ nav ul li a:hover {
     font-size: 1.1rem;
     max-width: 800px;
     margin: 0 auto 1.5rem;
+    color: #0e0c0c;
 }
 
 /* Menu Section */
@@ -252,6 +253,7 @@ nav ul li a:hover {
     flex-wrap: wrap;
     max-width: 1200px;
     margin: 0 auto;
+    
 }
 
 .contact-info > div {
@@ -265,6 +267,11 @@ nav ul li a:hover {
 .contact-info h3 {
     color: var(--secondary-color);
     margin-bottom: 1rem;
+}
+
+.contact-info p {
+    color: #0e0c0c;
+    font-size: 1.1rem;
 }
 
 /* Restaurant Footer */
